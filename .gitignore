@@ -5,3 +5,5 @@ node_modules
 *.fig
 
 .DS_Store
+
+todo.md
